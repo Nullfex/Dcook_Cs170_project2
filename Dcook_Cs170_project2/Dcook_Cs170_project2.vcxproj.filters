@@ -21,5 +21,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="Input.txt" />
+    <Text Include="input_large.txt" />
+    <Text Include="Tinyset.txt" />
   </ItemGroup>
 </Project>
